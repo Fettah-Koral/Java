@@ -24,7 +24,7 @@ public class Main {
 //
 //		categoryManager.add(category1);
 //		categoryManager.add(category2);
-////	categoryManager.add(category3);
+//		categoryManager.add(category3);
 //		
 //		categoryManager.delete(category1.getId()-1);
 //		categoryManager.update(0, category2);
